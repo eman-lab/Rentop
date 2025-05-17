@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What do I need to rent a Lamborghini in Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For UAE residents: Valid UAE driving license and Emirates ID.
+
+For international visitors: Valid passport, tourist visa, international driving permit (IDP), and your home country driving license."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the costs involved in renting a Lamborghini?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our rates start from AED 2,800 per day, with flexible hourly options available. All prices include comprehensive insurance and 24/7 roadside assistance, ensuring peace of mind."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I have the Lamborghini delivered to my location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer optional door-to-door delivery for your convenience. Choose to start your luxury experience from the moment you arrive, with your chosen Lamborghini waiting at your doorstep."
+      }
+    }
+  ]
+}
+</script>
