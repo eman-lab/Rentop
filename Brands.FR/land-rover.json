@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Combien coûte la location d'un Range Rover à Dubaï?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les locations de Range Rover à Dubaï commencent généralement à 575 AED par jour pour les modèles d'entrée de gamme comme l'Evoque et vont jusqu'à 2 400 AED par jour pour les modèles haut de gamme comme l'Autobiography ou le SVR."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "De quels documents ai-je besoin pour louer un Range Rover à Dubaï?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour les résidents des Émirats arabes unis: une carte d'identité des Émirats et un permis de conduire émirati valide.Pour les visiteurs internationaux: un passeport, un visa touristique et un permis de conduire international valide (les permis américains ou européens fonctionnent parfaitement).Assurez-vous que vos documents sont à jour pour un processus de location fluide."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il des frais cachés dans le prix de location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolument pas ! Chez Rentop, la transparence est au cœur de tout ce que nous faisons. Le prix affiché comprend tous les éléments essentiels, sans frais cachés. Nous indiquons clairement tous les coûts à l'avance, afin que vous puissiez louer votre Range Rover en toute confiance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il des frais cachés dans le prix de location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolument pas ! Chez Rentop, la transparence est au cœur de tout ce que nous faisons. Le prix affiché comprend tous les éléments essentiels, sans frais cachés. Nous indiquons clairement tous les coûts à l'avance, afin que vous puissiez louer votre Range Rover en toute confiance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les locations de Range Rover sont-elles adaptées aux longs trajets sur route?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, les Range Rover sont conçus pour exceller sur les longs trajets. Avec leurs intérieurs luxueux, leur technologie de pointe et leurs moteurs puissants, ils garantissent une conduite souple et confortable."
+      }
+       }
+  ]
+}
+</script>
