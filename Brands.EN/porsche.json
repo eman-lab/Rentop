@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a Porsche rental cost in Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porsche rental prices in Dubai vary depending on the model and rental duration. Entry-level models like the Porsche Boxster start at 1000 AED per day, while high-performance models like the Porsche GT3 RS can cost up to 5000 AED per day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents do I need to rent a Porsche in Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "UAE Residents: Emirates ID and a valid UAE driving license.International Visitors: Passport, tourist visa, and a valid international driving permit (US or EU permits work great).Make sure your documents are up-to-date for a smooth rental process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any hidden fees in the rental price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At Rentop, transparency is at the heart of everything we do. The price displayed includes all essentials, with no hidden fees. We clearly outline all costs upfront, so you can rent your Porsche confidently."
+      }
+    }
+  ]
+}
+</script>
