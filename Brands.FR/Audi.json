@@ -1,0 +1,57 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Où puis-je louer une Audi à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rentop propose une gamme variée de modèles Audi, garantissant une expérience de location facile et adaptée à vos besoins, de la location sportive Audi A5 à Dubaï à la puissante location Audi RS3 à Dubaï."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on louer une voiture à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, les touristes peuvent louer des voitures à Dubaï. L'âge minimum pour louer une voiture est généralement de 21 ans, bien que certaines locations de voitures de luxe ou de supercars puissent exiger que les conducteurs aient plus de 25 ans. Il est conseillé de nous contacter concernant les exigences spécifiques en matière de documentation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "De quels documents ai-je besoin pour louer une Audi ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Résidents des Émirats arabes unis: carte d'identité des Émirats et permis de conduire des Émirats arabes unis valide.Touristes: passeport, visa touristique et permis de conduire américain et européen (IDP)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il des frais cachés ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Rentop garantit une structure tarifaire transparente et sans surprise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je emmener mon Audi louée en dehors de Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, il suffit d'informer notre équipe à l'avance pour obtenir les permis et les directives nécessaires."
+      }
+       },
+         {
+      "@type": "Question",
+      "name": "Combien coûte la location d'une Audi R8 à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les tarifs journaliers commencent à 1 440 AED avec des options de location horaire et prolongée."
+      }
+  
+    }
+  ]
+}
+</script>
