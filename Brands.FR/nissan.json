@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "De quels documents ai-je besoin pour louer une Nissan Dubaï?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour les résidents des Émirats arabes unis: une carte d'identité des Émirats et un permis de conduire émirati valide.Pour les visiteurs internationaux: un passeport, un visa touristique, un permis de conduire du pays d'origine et un permis de conduire international (PCI)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le prix de départ pour une location Nissan à Dubaï?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les tarifs de location journaliers pour les modèles Nissan commencent à 113 AED/jour. Des options de forfait horaire flexibles et premium sont également disponibles pour des besoins spécifiques."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il des frais cachés dans le prix de location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, Rentop suit une structure tarifaire transparente. Il n'y a pas de frais cachés ni de frais inattendus. Tous les coûts seront clairement indiqués dans votre contrat de location."
+      }
+    }
+  ]
+}
+</script>
