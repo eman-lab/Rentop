@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Combien coûte une Mercedes à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les tarifs commencent à 299 AED par jour, selon le modèle et la durée."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la Mercedes la plus populaire à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La Classe G (G-Wagon) et la Classe S sont très recherchées pour leur style et leurs performances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "De quels documents ai-je besoin pour louer une Mercedes à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour les résidents des Émirats arabes unis: une carte d'identité des Émirats et un permis de conduire émirien valide.Pour les visiteurs internationaux: un passeport, un visa touristique et un permis de conduire américain et européen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je conduire une Mercedes dans d'autres émirats comme Abu Dhabi ou Sharjah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, vous pouvez conduire votre Mercedes de location à travers les Émirats arabes unis. Veuillez informer notre équipe à l'avance pour vous assurer que toutes les dispositions nécessaires sont prises."
+      }
+    }
+  ]
+}
+</script>
