@@ -1,0 +1,50 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "De quels documents ai-je besoin pour louer une Bentley Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour les résidents des Émirats arabes unis: une carte d'identité des Émirats et un permis de conduire émirien valide.
+
+Pour les visiteurs internationaux: un passeport, un visa touristique, un permis de conduire du pays d'origine et un permis de conduire international (PCI)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quel est le prix de départ pour une location Bentley à Dubaï?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les tarifs de location journaliers pour les modèles Bentley commencent à 2 400 AED. Des options de forfait horaire flexibles et premium sont également disponibles pour des besoins spécifiques."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il des frais cachés dans le prix de location?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, Rentop suit une structure tarifaire transparente. Il n'y a pas de frais cachés ni de frais inattendus. Tous les coûts seront clairement indiqués dans votre contrat de location."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je conduire une Bentley dans d'autres émirats comme Abu Dhabi ou Sharjah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, vous pouvez conduire votre Bentley de location à travers les Émirats arabes unis. Veuillez informer notre équipe à l'avance pour vous assurer que toutes les dispositions nécessaires sont prises."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien de temps faut-il attendre avant de pouvoir louer une Bentley après avoir effectué une réservation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une fois votre réservation confirmée, vous pouvez commencer votre voyage de location Bentley en quelques heures, selon les modalités de livraison ou de retrait."
+      }
+    }
+  ]
+}
+</script>
