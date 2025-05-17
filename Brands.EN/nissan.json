@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What documents do I need to rent a Nissan Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For UAE Residents: Emirates ID and a valid UAE driving license.For International Visitors: passport, tourist visa, home country driving license, and an international driving permit (IDP)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the starting price for a Nissan rental Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The daily rental rates for Nissan models start from AED 113/day. Flexible hourly and premium package options are also available for specific needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any hidden fees in the rental price?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Rentop follows a transparent pricing structure. There are no hidden costs or unexpected charges. All costs will be clearly outlined in your rental agreement."
+      }
+    }
+  ]
+}
+</script>
