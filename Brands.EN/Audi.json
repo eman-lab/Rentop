@@ -41,14 +41,16 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes, just inform our team in advance to arrange permits and guidelines."
-      },
-        {
+      }
+       },
+         {
       "@type": "Question",
       "name": "How much is it to rent an Audi R8 in Dubai?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Daily rates begin at AED 1440 with options for hourly and extended rentals."
       }
+  
     }
   ]
 }
