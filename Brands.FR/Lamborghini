@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ce qu'il Faut pour Louer une Lamborghini à Dubaï?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour les résidents des Émirats Arabes Unis: Permis de conduire émirati valide, Carte d'identité Emirates , Pour les visiteurs internationaux:
+1-Passeport valide
+2-Visa touristique
+Canada, United States, Australia, China, Hong Kong, Japan, New Zealand, Singapore, South Korea, Albania, Austria, Belgium, Bulgaria, Cyprus, Denmark, Finland, Estonia, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Spain, Sweden, Switzerland, Turkey, United Kingdom, Bahrain, Kuwait, Oman, Saudi Arabia, Qatar, and South Africa. Les autres parus : Permis de conduire international (IDP)"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels sont les Coûts pour Louer une Lamborghini?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nos tarifs débutent à partir de 2800 AED par jour, avec des options flexibles à l'heure.Tous les prix incluent :
+1- Une assurance complète
+2- Une assistance routière 24/7, pour une tranquillité d'esprit totale"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je Faire Livrer la Lamborghini à Mon Emplacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, nous proposons un service de livraison porte-à-porte pour votre confort.
+Commencez votre expérience de luxe dès votre arrivée, avec la Lamborghini de votre choix qui vous attend à votre porte."
+      }
+    }
+  ]
+}
+</script>
