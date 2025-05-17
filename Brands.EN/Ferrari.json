@@ -16,9 +16,7 @@
       "name": "What documents do I need to rent a Ferrari?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "UAE Residents: Emirates ID and valid UAE driving license.
-
-Tourists: Passport, tourist visa, and international driving permit (IDP)."
+        "text": "UAE Residents: Emirates ID and valid UAE driving license.Tourists: Passport, tourist visa, and international driving permit (IDP)."
       }
     },
     {
@@ -48,6 +46,3 @@ Tourists: Passport, tourist visa, and international driving permit (IDP)."
   ]
 }
 </script>
-FAQ Schema Ferrari EN .txt
-
-Displaying FAQ Schema Ferrari EN .txt.
