@@ -1,0 +1,48 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Où puis-je louer une Ferrari à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rentop propose une gamme exclusive de modèles Ferrari, garantissant une expérience de location simple et adaptée à vos besoins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "De quels documents ai-je besoin pour louer une Ferrari ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Résidents des Émirats arabes unis: carte d'identité des Émirats et permis de conduire des Émirats arabes unis en cours de validité.Touristes: passeport, visa touristique et permis de conduire international (PCI)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il des frais cachés ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Rentop garantit une structure tarifaire transparente et sans surprise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je emmener ma Ferrari de location en dehors de Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": ".Oui, mais informez notre équipe à l'avance pour obtenir les permis et les directives nécessaires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien coûte une location de Ferrari à Dubaï ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Laissez-moi vous présenter notre structure tarifaire de location pour une transparence totale. Nos tarifs journaliers démarrent à partir de 2 800 AED. Nous comprenons que chaque instant compte, c'est pourquoi nous proposons des locations à l'heure pour ceux qui recherchent un avant-goût rapide du luxe. Nous avons développé des forfaits premium pour les clients à long terme qui offrent des périodes de location prolongées avec des avantages exclusifs supplémentaires."
+      }
+    }
+  ]
+}
+</script>
