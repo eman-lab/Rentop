@@ -1,0 +1,40 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a Mercedes cost in Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rates start at AED 299 per day, depending on the model and duration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most popular Mercedes in Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The G-Class (G-Wagon) and S-Class are highly sought after for their style and performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documents do I need to rent a Mercedes Dubai?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For UAE Residents: Emirates ID and a valid UAE driving license.For International Visitors: Passport, tourist visa, and US, and EU driving permit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I drive a Mercedes to other emirates like Abu Dhabi or Sharjah?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can drive your rented Mercedes across the UAE. Please inform our team in advance to ensure all necessary arrangements are made."
+      }
+    }
+  ]
+}
+</script>
